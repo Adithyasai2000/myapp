@@ -1,0 +1,31 @@
+.classcen{
+    align-items: center;
+    text-align: center;
+  }
+  .cardl{
+    width: 450px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    align-items: center;
+    box-shadow:#282a33 ;
+  }
+  .cardl:hover{
+    background:#ffffff;
+  
+  }
+  .rowve{
+    align-items: center;
+    padding: 10px;
+    
+  }
+  .servicetextclass{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .imagclass{
+    border-radius: 12px;
+    width: 450px;
+  }

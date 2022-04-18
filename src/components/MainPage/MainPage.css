@@ -1,0 +1,22 @@
+.cone{
+  width: 95%;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  vertical-align: middle;
+  padding-left: 10px;
+}
+.cardll{
+    width: 350px;
+    height: 150px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    align-items: center;
+    box-shadow:#282a33 ;
+  
+  }
+  .cardll:hover{
+    background:#ffffff;
+  
+  }

@@ -1,0 +1,21 @@
+.con{
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    vertical-align: middle;
+    padding-left: auto;
+}
+.chatuserscontainer{
+    height: auto;
+}
+.profileimgclass{
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    height: 50px;
+    width: 70px;
+    padding-left: 10px;
+   
+}
